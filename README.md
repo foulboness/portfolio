@@ -37,9 +37,7 @@ portfolio/
 ├── index.html
 ├── style.css
 ├── script.js
-├── assets/
-│   ├── images/
-│   └── icons/
+
 └── README.md
 ```
 
@@ -84,18 +82,6 @@ You can easily customize:
 - Animations
 
 ---
-
-## 📌 Future Improvements
-
-- Blog integration
-- CMS support
-- Light mode
-- Dynamic project loading
-- Theme customization
-- Music player integration
-
----
-
 ## 🤝 Contributing
 
 Pull requests are welcome.
